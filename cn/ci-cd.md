@@ -20,7 +20,7 @@
 Gitlab CI/CD是Gitlab内置的软件开发工具，提供
 * 持续集成(CI)
 * 持续交付(CD)
-* 持续部署(CD)
+* 持续部署(CO)
 
 ## 准备工作
 * gitlab安装
